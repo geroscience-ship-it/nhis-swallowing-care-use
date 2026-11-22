@@ -1,0 +1,4 @@
+"model","term","label","PR","CI_lower","CI_upper"
+"M3","cog3MemoryNoDiagnosis","Memory difficulty without dementia diagnosis (ref. no cognitive problem)",0.71,0.54,0.93
+"M3","cog3Dementia","Dementia diagnosis (ref. no cognitive problem)",0.91,0.55,1.5
+"M3","cog3Dementia_vs_MemoryNoDiagnosis","Dementia diagnosis vs. memory difficulty without diagnosis",1.29,0.77,2.16

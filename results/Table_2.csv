@@ -1,0 +1,7 @@
+"model","term","label","PR_swallowing_only","CI_lower_swallowing_only","CI_upper_swallowing_only","PR_analytic_sample","CI_lower_analytic_sample","CI_upper_analytic_sample"
+"","care_pct","Proportion with care use, % (95% CI)",17.67,14.45,21.42,17.43,15.06,20.09
+"M2","stroke","Stroke",1.5,0.85,2.64,1.62,1.16,2.25
+"M3","cog_any","Dementia or any difficulty remembering/concentrating or communicating",0.74,0.5,1.08,0.73,0.56,0.95
+"M4","seeing","Difficulty seeing",0.47,0.31,0.72,0.71,0.53,0.94
+"M5","severe_alot","Severity 'a lot' (ref. 'a little'/'somewhere in between')",1.66,1.12,2.46,1.61,1.21,2.14
+"M5","duration7d","Duration >=7 days (ref. <7 days)",2.19,1.32,3.62,1.95,1.36,2.79

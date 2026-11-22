@@ -1,0 +1,26 @@
+"analysis","model","n","n_care","parameters","converged","max_fitted"
+"Table 2","M1",1294,219,8,TRUE,0.326
+"Table 2","M2",1294,219,11,TRUE,0.421
+"Table 2","M3",1294,219,14,TRUE,0.492
+"Table 2","M4",1294,219,18,TRUE,0.609
+"Table 2","M5",1294,219,20,TRUE,0.902
+"Table 3, swallowing problems only","M1",654,110,5,TRUE,0.298
+"Table 3, swallowing problems only","M2",654,110,8,TRUE,0.449
+"Table 3, swallowing problems only","M3",654,110,9,TRUE,0.411
+"Table 3, swallowing problems only","M4",654,110,10,TRUE,0.492
+"Table 3, swallowing problems only","M5",654,110,12,TRUE,0.826
+"Table 3, analytic sample","M1",1294,219,5,TRUE,0.242
+"Table 3, analytic sample","M2",1294,219,8,TRUE,0.409
+"Table 3, analytic sample","M3",1294,219,9,TRUE,0.524
+"Table 3, analytic sample","M4",1294,219,10,TRUE,0.505
+"Table 3, analytic sample","M5",1294,219,12,TRUE,0.686
+"Table S6","M1",1198,196,8,TRUE,0.294
+"Table S6","M2",1198,196,11,TRUE,0.497
+"Table S6","M3",1198,196,14,TRUE,0.511
+"Table S6","M4",1198,196,18,TRUE,0.604
+"Table S6","M5",1198,196,20,TRUE,0.98
+"Table S7","M1",1294,219,8,TRUE,0.326
+"Table S7","M2",1294,219,11,TRUE,0.421
+"Table S7","M3",1294,219,13,TRUE,0.508
+"Table S7","M4",1294,219,17,TRUE,0.693
+"Table S7","M5",1294,219,19,TRUE,0.91

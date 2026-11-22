@@ -1,0 +1,21 @@
+"model","term","label","PR","CI_lower","CI_upper"
+"M1","year2025","Survey year 2025 (ref. 2022)",1.21,0.9,1.62
+"M1","age375-84","Age 75-84 years (ref. 65-74)",1.4,1.02,1.92
+"M1","age385+","Age >=85 years (ref. 65-74)",0.87,0.52,1.46
+"M1","female","Female (ref. male)",1.28,0.95,1.71
+"M1","educ3SomeCollege","Education: some college/associate (ref. >= bachelor's)",1.15,0.8,1.66
+"M1","educ3HighSchoolOrLess","Education: <= high school (ref. >= bachelor's)",0.84,0.57,1.25
+"M1","inc_lt200","Family income <200% FPL (ref. >=200%)",0.95,0.68,1.33
+"M1","cost_barrier","Cost barrier to medical care",1.05,0.6,1.85
+"M2","stroke","Stroke",1.76,1.27,2.45
+"M2","hypertension","Hypertension",1.12,0.8,1.57
+"M2","diabetes","Diabetes",1.18,0.84,1.66
+"M3","dementia","Dementia",1.32,0.7,2.49
+"M3","memory3Some","Memory/concentration: some difficulty (ref. none)",0.69,0.51,0.92
+"M3","memory3ALotOrCannot","Memory/concentration: a lot/cannot do (ref. none)",0.76,0.43,1.35
+"M4","seeing","Difficulty seeing",0.64,0.47,0.86
+"M4","hearing","Difficulty hearing",1.03,0.78,1.36
+"M4","mobility","Difficulty walking or climbing steps",1.08,0.78,1.48
+"M4","communication","Difficulty communicating",0.65,0.4,1.04
+"M5","severe_alot","Severity 'a lot' (ref. 'a little'/'somewhere in between')",1.53,1.13,2.08
+"M5","duration7d","Duration >=7 days (ref. <7 days)",2.17,1.47,3.2

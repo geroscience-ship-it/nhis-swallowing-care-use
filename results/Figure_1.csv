@@ -1,0 +1,8 @@
+"step","n","n_2022","n_2025","n_care"
+"Sample adults, NHIS 2022 and 2025",51866,27651,24215,NA
+"Aged 65 years and older (numeric age)",17239,8771,8468,NA
+"Swallowing problems in the past 12 months",1342,653,689,NA
+"Valid response on care use",1340,652,688,226
+"Complete data on all model variables",1294,632,662,219
+"Swallowing problems only",654,317,337,110
+"Self-reported interview",1198,584,614,196

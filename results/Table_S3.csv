@@ -1,0 +1,13 @@
+"model","term","label","PR_swallowing_only","CI_lower_swallowing_only","CI_upper_swallowing_only","PR_analytic_sample","CI_lower_analytic_sample","CI_upper_analytic_sample"
+"M1","year2025","Survey year 2025 (ref. 2022)",1.46,0.97,2.21,1.26,0.93,1.7
+"M1","age75","Age >=75 years (ref. 65-74)",1.1,0.73,1.64,1.25,0.94,1.65
+"M1","female","Female (ref. male)",1.29,0.86,1.93,1.18,0.88,1.59
+"M1","educ_hs","Education <= high school (ref. higher)",0.77,0.51,1.15,0.94,0.71,1.26
+"M1","inc_lt200","Family income <200% FPL (ref. >=200%)",1.14,0.75,1.73,0.95,0.71,1.29
+"M2","stroke","Stroke",1.5,0.85,2.64,1.62,1.16,2.25
+"M2","hypertension","Hypertension",1.21,0.77,1.89,1.07,0.77,1.49
+"M2","diabetes","Diabetes",1.04,0.63,1.74,1.13,0.81,1.58
+"M3","cog_any","Dementia or any difficulty remembering/concentrating or communicating",0.74,0.5,1.08,0.73,0.56,0.95
+"M4","seeing","Difficulty seeing",0.47,0.31,0.72,0.71,0.53,0.94
+"M5","severe_alot","Severity 'a lot' (ref. 'a little'/'somewhere in between')",1.66,1.12,2.46,1.61,1.21,2.14
+"M5","duration7d","Duration >=7 days (ref. <7 days)",2.19,1.32,3.62,1.95,1.36,2.79

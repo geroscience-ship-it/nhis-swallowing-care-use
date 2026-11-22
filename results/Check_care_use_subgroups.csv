@@ -1,0 +1,5 @@
+"population","factor","n","n_care","care_pct","care_CI_lower","care_CI_upper"
+"analytic sample","severe_alot",230,58,26.4,20.5,33.2
+"analytic sample","stroke",195,50,26,18.9,34.5
+"swallowing problems only","severe_alot",97,26,28.6,18.8,40.8
+"swallowing problems only","stroke",70,14,25,13.7,41.2
