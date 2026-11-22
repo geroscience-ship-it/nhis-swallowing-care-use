@@ -1,0 +1,14 @@
+# NHIS public-use files are not redistributed here; see README
+*.csv
+!results/*.csv
+*.zip
+*.sav
+*.sas7bdat
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
